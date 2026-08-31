@@ -6,4 +6,5 @@ void main() {
   var angka1 = 100;
 
   print('Halo! nama saya $nama. Umur saya $umur');
+  print('Halo! nama saya $nama. Umur saya $umur');
 }
