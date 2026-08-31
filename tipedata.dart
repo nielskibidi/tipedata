@@ -50,4 +50,8 @@ void main() {
   // final String nama = 'Vikho';
 
   // const int angka = 100;
+
+  // String? nama;
+  // int? angka;
+  // print(nama);
 }
